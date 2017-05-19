@@ -7,7 +7,6 @@ Sun Holiday is a campaign page promoting corporate travel with a travel company 
 * HTML
 * CSS
 * JavaScript
-* Deployed with [Surge](http://surge.sh/)
 
 #### Authors
 * **Milla Kiviluoma**
